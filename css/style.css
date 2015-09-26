@@ -1,0 +1,31 @@
+html {
+	background-color: #345863;
+	color: #EBEBEB;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#percent {
+	position: relative;
+	top: 50vh;
+	text-align: center;
+	color: #EBEBEB;
+}
+
+body {
+	position: relative;
+	text-align: center;
+	background-color: #345863
+}
+
+#content {
+	position: relative;
+	top: 30vh;
+	opacity: 0;
+	text-align: center;
+}
+
+#check {
+	position: relative;
+	top: 30vh;
+	text-align: center;
+}
